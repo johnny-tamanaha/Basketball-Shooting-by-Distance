@@ -1,2 +1,3 @@
 # miti
-basketball efficiency data scraping
+
+Distance based efficiency statistics were scraped off of basketball-reference.com
